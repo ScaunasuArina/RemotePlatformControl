@@ -1,6 +1,6 @@
 # RemotePlatformControl
 
-This repository is part of the same project along with "AndroidRemotePlatformControlApp".
+The project involves the development of an Android application to remotely control an embedded platform equipped with a Raspberry Pi module and various sensors. This repository is part of the same project along with "AndroidRemotePlatformControlApp".
 
 Implementation for "Tornado Server" and "Embedded platform" is handled in this repo.
 
